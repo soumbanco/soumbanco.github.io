@@ -1,0 +1,150 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kevinl1ma.github.io" resolutions="1x" timestamp="1575403618081">
+  <folder name="css">
+    <file name="site_global.css" crc="4207308428"/>
+    <file name="index.css" crc="4109691273" ref="index"/>
+    <file name="parque-olhos-d-_gua.css" crc="3883289342" ref="parque-olhos-d-água"/>
+  </folder>
+  <folder name="fonts">
+    <file name="velodromabasic-wide.woff" crc="389350876"/>
+    <file name="velodromabasic-wide.eot" crc="3793094887"/>
+    <file name="velodromabasic-wide.svg" crc="367557732"/>
+    <file name="globotipotexto-thin.woff" crc="3977415265"/>
+    <file name="globotipotexto-thin.eot" crc="191454183"/>
+    <file name="globotipotexto-thin.svg" crc="3834214378"/>
+    <file name="globotipotexto-black.woff" crc="4214621213"/>
+    <file name="globotipotexto-black.eot" crc="4025533021"/>
+    <file name="globotipotexto-black.svg" crc="3781526475"/>
+    <file name="velodromabasic-superwide.woff" crc="3768010579"/>
+    <file name="velodromabasic-superwide.eot" crc="94932182"/>
+    <file name="velodromabasic-superwide.svg" crc="164874530"/>
+    <file name="globotipotexto-light.woff" crc="4163677514"/>
+    <file name="globotipotexto-light.eot" crc="4286905672"/>
+    <file name="globotipotexto-light.svg" crc="296296527"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:parque-olhos-d-água"/>
+    <file name="museutils.js" crc="3803043152" ref="index:parque-olhos-d-água"/>
+    <file name="whatinput.js" crc="86476730" ref="index:parque-olhos-d-água"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:parque-olhos-d-água"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:parque-olhos-d-água"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:parque-olhos-d-água"/>
+    <file name="webpro.js" crc="242022427" ref="parque-olhos-d-água"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="parque-olhos-d-água"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="parque-olhos-d-água"/>
+    <file name="touchswipe.js" crc="4066113679" ref="parque-olhos-d-água"/>
+  </folder>
+  <folder name="images">
+    <file name="capa.jpg" crc="11354983" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="4063557673" seo="true" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="paruqe.png" crc="379882388" seo="true" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-7.jpg" crc="278253565" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-7-u2476-r-fr.png" crc="448874979" ref="parque-olhos-d-água"/>
+    <file name="olhos-14.jpg" crc="360895222" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-14-u4027-r-fr.png" crc="4195839275" ref="parque-olhos-d-água"/>
+    <file name="olhos-14-u4030-fr.jpg" crc="3927247504" ref="parque-olhos-d-água"/>
+    <file name="olhos-15.jpg" crc="4133515841" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-15-u3893-r-fr.png" crc="307008921" ref="parque-olhos-d-água"/>
+    <file name="olhos-2.jpg" crc="4219629113" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-2-u4069-r-fr.png" crc="3904446959" ref="parque-olhos-d-água"/>
+    <file name="olhos-3-u4150-fr.jpg" crc="4166878921" ref="parque-olhos-d-água"/>
+    <file name="olhos-3-u4150-r-fr.png" crc="500386772" ref="parque-olhos-d-água"/>
+    <file name="olhos-3.jpg" crc="4224246780" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-16-u3990-fr.jpg" crc="174660438" ref="parque-olhos-d-água"/>
+    <file name="olhos-16-u3990-r-fr.png" crc="4259016536" ref="parque-olhos-d-água"/>
+    <file name="olhos-16.jpg" crc="4282465351" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-1.jpg" crc="482826566" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-1-u4111-r-fr.png" crc="488941143" ref="parque-olhos-d-água"/>
+    <file name="olhos-6-u4185-fr.jpg" crc="151207990" ref="parque-olhos-d-água"/>
+    <file name="olhos-6-u4185-r-fr.png" crc="178164528" ref="parque-olhos-d-água"/>
+    <file name="olhos-6.jpg" crc="457997556" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-5.jpg" crc="416535389" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-5-u4242-r-fr.png" crc="254788118" ref="parque-olhos-d-água"/>
+    <file name="olhos-4.jpg" crc="467688998" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-4-u4266-r-fr.png" crc="461159030" ref="parque-olhos-d-água"/>
+    <file name="olhos-9-u4245-fr.jpg" crc="4122735159" ref="parque-olhos-d-água"/>
+    <file name="olhos-9-u4245-r-fr.png" crc="291374679" ref="parque-olhos-d-água"/>
+    <file name="olhos-9.jpg" crc="488292039" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-11-u4281-fr.jpg" crc="3967270480" ref="parque-olhos-d-água"/>
+    <file name="olhos-11-u4281-r-fr.png" crc="526916450" ref="parque-olhos-d-água"/>
+    <file name="olhos-11.jpg" crc="4035612536" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-12-u4288-fr.jpg" crc="3987684585" ref="parque-olhos-d-água"/>
+    <file name="olhos-12-u4288-r-fr.png" crc="194064115" ref="parque-olhos-d-água"/>
+    <file name="olhos-12.jpg" crc="3907810830" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-10.jpg" crc="98129849" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-10-u4435-r-fr.png" crc="4256311426" ref="parque-olhos-d-água"/>
+    <file name="olhos-8.jpg" crc="303119079" ref="parque-olhos-d-água">
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="parque-olhos-d-água" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+      <caption webpage="as-histórias-de-um-banco" alt=""/>
+    </file>
+    <file name="olhos-8-u4446-r-fr.png" crc="205209318" ref="parque-olhos-d-água"/>
+  </folder>
+  <file name="index.html" crc="3929831776" seo="true" mt="1575403589036" redirect="true"/>
+  <file name="parque-olhos-d-água.html" crc="487790912" seo="true" mt="1575398172547" redirect="true"/>
+</manifest>
